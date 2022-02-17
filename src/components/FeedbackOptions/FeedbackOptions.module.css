@@ -1,0 +1,17 @@
+.options {
+  display: flex;
+  list-style: none;
+  padding: 0;
+  margin-left: 50px;
+}
+
+.optionBtn {
+  padding: 10px 30px;
+  background: steelblue;
+  color: white;
+  text-transform: uppercase;
+  border-radius: 3px;
+  margin-right: 10px;
+  cursor: pointer;
+  border: none;
+}
